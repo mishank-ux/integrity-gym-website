@@ -8,3 +8,8 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the gym website as one index route with reusable section styling in the global design system; this preserves a lightweight single-page experience.
+- Store uploaded photography as Lovable Assets JSON pointers and derive branding only from the original sign; this keeps original media recognizable without committing large binaries.
+- Keep business facts in a browser-safe data module with concrete tests; this prevents contact details and opening hours drifting between sections.
+- Use Google Maps Embed with the managed browser key and a separate directions link; map rendering needs no public server proxy.

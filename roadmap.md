@@ -4,6 +4,6 @@
 - [x] Integrate Google Maps Embed and exact directions link; live map needs verification on an authorized published domain.
 - [x] Verify navigation, photo viewer, calls and mobile layouts.
 - [x] Omit unverified WhatsApp, Calendly, prices and trainer details.
-- [ ] Refine hero photography, mobile typography and primary enquiry action.
-- [ ] Unify facilities, gallery, membership and visit sections without unsupported claims.
-- [ ] Verify enquiry, call, directions and non-obscuring bottom actions on mobile and desktop.
+- [x] Refine hero photography, mobile typography and primary enquiry action.
+- [x] Unify facilities, gallery, membership and visit sections without unsupported claims.
+- [x] Verify enquiry, call, directions and non-obscuring bottom actions on mobile and desktop.
